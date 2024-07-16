@@ -35,6 +35,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace 'com.flutter.moum.screenshot_callback'
 }
 
 dependencies {
